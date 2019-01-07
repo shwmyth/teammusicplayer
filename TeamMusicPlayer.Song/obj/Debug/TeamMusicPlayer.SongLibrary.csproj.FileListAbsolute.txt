@@ -1,0 +1,18 @@
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Song\bin\Debug\WorkplaceDynamics.TeamMusicPlayer.SongLibrary.dll
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Song\bin\Debug\WorkplaceDynamics.TeamMusicPlayer.SongLibrary.pdb
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Song\obj\Debug\TeamMusicPlayer.SongLibrary.csprojAssemblyReference.cache
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Song\obj\Debug\TeamMusicPlayer.SongLibrary.csproj.CoreCompileInputs.cache
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Song\obj\Debug\WorkplaceDynamics.TeamMusicPlayer.SongLibrary.dll
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Song\obj\Debug\WorkplaceDynamics.TeamMusicPlayer.SongLibrary.pdb
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Song\obj\Debug\TeamMusicPlayer.SongLibrary.csproj.CoreCompileInputs.cache
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Song\bin\Debug\TeamMusicPlayer.SongLibrary.dll
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Song\bin\Debug\TeamMusicPlayer.SongLibrary.pdb
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Song\obj\Debug\TeamMusicPlayer.SongLibrary.dll
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Song\obj\Debug\TeamMusicPlayer.SongLibrary.pdb
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Song\obj\Debug\TeamMusicPlayer.SongLibrary.csprojAssemblyReference.cache
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Song\bin\Debug\TeamMusicPlayer.SongLibrary.dll
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Song\bin\Debug\TeamMusicPlayer.SongLibrary.pdb
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Song\obj\Debug\TeamMusicPlayer.SongLibrary.csprojAssemblyReference.cache
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Song\obj\Debug\TeamMusicPlayer.SongLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Song\obj\Debug\TeamMusicPlayer.SongLibrary.dll
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Song\obj\Debug\TeamMusicPlayer.SongLibrary.pdb
