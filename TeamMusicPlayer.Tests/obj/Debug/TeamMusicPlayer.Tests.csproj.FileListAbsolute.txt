@@ -1,0 +1,51 @@
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Tests\bin\Debug\WorkplaceDynamics.TeamMusicPlayer.Tests.dll
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Tests\bin\Debug\WorkplaceDynamics.TeamMusicPlayer.Tests.pdb
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Tests\bin\Debug\nunit.framework.dll
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Tests\bin\Debug\WorkplaceDynamics.TeamMusicPlayer.SongLibrary.dll
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Tests\bin\Debug\WorkplaceDynamics.TeamMusicPlayer.SongMix.dll
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Tests\bin\Debug\WorkplaceDynamics.TeamMusicPlayer.SongRating.dll
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Tests\bin\Debug\WorkplaceDynamics.TeamMusicPlayer.Team.dll
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Tests\bin\Debug\WorkplaceDynamics.TeamMusicPlayer.SongMix.pdb
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Tests\bin\Debug\WorkplaceDynamics.TeamMusicPlayer.SongRating.pdb
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Tests\bin\Debug\WorkplaceDynamics.TeamMusicPlayer.SongLibrary.pdb
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Tests\bin\Debug\WorkplaceDynamics.TeamMusicPlayer.Team.pdb
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Tests\bin\Debug\nunit.framework.xml
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Tests\obj\Debug\TeamMusicPlayer.Tests.csprojAssemblyReference.cache
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Tests\obj\Debug\TeamMusicPlayer.Tests.csproj.CoreCompileInputs.cache
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Tests\obj\Debug\TeamMusicPlayer.Tests.csproj.CopyComplete
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Tests\obj\Debug\WorkplaceDynamics.TeamMusicPlayer.Tests.dll
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Tests\obj\Debug\WorkplaceDynamics.TeamMusicPlayer.Tests.pdb
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Tests\bin\Debug\nunit.framework.dll
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Tests\bin\Debug\nunit.framework.xml
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Tests\obj\Debug\TeamMusicPlayer.Tests.csproj.CoreCompileInputs.cache
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Tests\obj\Debug\TeamMusicPlayer.Tests.csproj.CopyComplete
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Tests\obj\Debug\TeamMusicPlayer.Tests.csprojAssemblyReference.cache
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Tests\bin\Debug\TeamMusicPlayer.Tests.dll
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Tests\bin\Debug\TeamMusicPlayer.Tests.pdb
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Tests\bin\Debug\TeamMusicPlayer.SongLibrary.dll
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Tests\bin\Debug\TeamMusicPlayer.SongMix.dll
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Tests\bin\Debug\TeamMusicPlayer.SongRating.dll
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Tests\bin\Debug\TeamMusicPlayer.Team.dll
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Tests\bin\Debug\TeamMusicPlayer.SongMix.pdb
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Tests\bin\Debug\TeamMusicPlayer.SongRating.pdb
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Tests\bin\Debug\TeamMusicPlayer.SongLibrary.pdb
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Tests\bin\Debug\TeamMusicPlayer.Team.pdb
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Tests\obj\Debug\TeamMusicPlayer.Tests.dll
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Tests\obj\Debug\TeamMusicPlayer.Tests.pdb
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Tests\bin\Debug\TeamMusicPlayer.Tests.dll
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Tests\bin\Debug\TeamMusicPlayer.Tests.pdb
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Tests\bin\Debug\nunit.framework.dll
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Tests\bin\Debug\TeamMusicPlayer.SongLibrary.dll
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Tests\bin\Debug\TeamMusicPlayer.SongMix.dll
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Tests\bin\Debug\TeamMusicPlayer.SongRating.dll
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Tests\bin\Debug\TeamMusicPlayer.Team.dll
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Tests\bin\Debug\TeamMusicPlayer.SongMix.pdb
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Tests\bin\Debug\TeamMusicPlayer.SongRating.pdb
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Tests\bin\Debug\TeamMusicPlayer.SongLibrary.pdb
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Tests\bin\Debug\TeamMusicPlayer.Team.pdb
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Tests\bin\Debug\nunit.framework.xml
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Tests\obj\Debug\TeamMusicPlayer.Tests.csprojAssemblyReference.cache
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Tests\obj\Debug\TeamMusicPlayer.Tests.csproj.CoreCompileInputs.cache
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Tests\obj\Debug\TeamMusicPlayer.Tests.csproj.CopyComplete
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Tests\obj\Debug\TeamMusicPlayer.Tests.dll
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Tests\obj\Debug\TeamMusicPlayer.Tests.pdb
