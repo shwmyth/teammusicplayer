@@ -1,0 +1,18 @@
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Team\bin\Debug\WorkplaceDynamics.TeamMusicPlayer.Team.dll
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Team\bin\Debug\WorkplaceDynamics.TeamMusicPlayer.Team.pdb
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Team\obj\Debug\TeamMusicPlayer.Team.csproj.CoreCompileInputs.cache
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Team\obj\Debug\WorkplaceDynamics.TeamMusicPlayer.Team.dll
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Team\obj\Debug\WorkplaceDynamics.TeamMusicPlayer.Team.pdb
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\WorkplaceDynamics.TeamMusicPlayer.Team\obj\Debug\TeamMusicPlayer.Team.csprojAssemblyReference.cache
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Team\obj\Debug\TeamMusicPlayer.Team.csproj.CoreCompileInputs.cache
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Team\bin\Debug\TeamMusicPlayer.Team.dll
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Team\bin\Debug\TeamMusicPlayer.Team.pdb
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Team\obj\Debug\TeamMusicPlayer.Team.dll
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Team\obj\Debug\TeamMusicPlayer.Team.pdb
+C:\Code\Applications\Interview codebase\TeamMusicPlayer\TeamMusicPlayer.Team\obj\Debug\TeamMusicPlayer.Team.csprojAssemblyReference.cache
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Team\bin\Debug\TeamMusicPlayer.Team.dll
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Team\bin\Debug\TeamMusicPlayer.Team.pdb
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Team\obj\Debug\TeamMusicPlayer.Team.csprojAssemblyReference.cache
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Team\obj\Debug\TeamMusicPlayer.Team.csproj.CoreCompileInputs.cache
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Team\obj\Debug\TeamMusicPlayer.Team.dll
+C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Team\obj\Debug\TeamMusicPlayer.Team.pdb
