@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="4" result="Passed" total="4" passed="0" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.9.0.0" clr-version="4.0.30319.42000" start-time="2019-01-06 17:27:36Z" end-time="2019-01-06 17:27:37Z" duration="1.210305">
+  <command-line><![CDATA[NUNIT3-CONSOLE  C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Tests\bin\Debug\TeamMusicPlayer.Tests.dll]]></command-line>
+  <test-suite type="Assembly" id="0-1005" name="C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Tests\bin\Debug\TeamMusicPlayer.Tests.dll" fullname="C:\Users\mekala\Desktop\TeamMusicPlayer\TeamMusicPlayer.Tests\bin\Debug\TeamMusicPlayer.Tests.dll" runstate="Runnable" testcasecount="4" result="Passed" duration="0.371213" total="4" passed="0" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="_PID" value="13532" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <test-suite type="Namespace" id="0-1006" name="TeamMusicPlayer" fullname="TeamMusicPlayer" runstate="Runnable" testcasecount="4" result="Passed" duration="0.361528" total="4" passed="0" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <test-suite type="Namespace" id="0-1007" name="Tests" fullname="TeamMusicPlayer.Tests" runstate="Runnable" testcasecount="4" result="Passed" duration="0.361134" total="4" passed="0" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <test-suite type="TestFixture" id="0-1000" name="TestTeamSongMix" fullname="TeamMusicPlayer.Tests.TestTeamSongMix" classname="TeamMusicPlayer.Tests.TestTeamSongMix" runstate="Runnable" testcasecount="4" result="Passed" duration="0.360059" total="4" passed="0" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <test-case id="0-1001" name="TestThatAddingOnlyOneSongResultsInThatSongPlayingRepeatedly" fullname="TeamMusicPlayer.Tests.TestTeamSongMix.TestThatAddingOnlyOneSongResultsInThatSongPlayingRepeatedly" methodname="TestThatAddingOnlyOneSongResultsInThatSongPlayingRepeatedly" classname="TeamMusicPlayer.Tests.TestTeamSongMix" runstate="Runnable" result="Passed" duration="0.097402" asserts="10" />
+          <test-case id="0-1002" name="TestThatAddingOnlyTwoSongsResultsInTheSongsAlternatingPlay" fullname="TeamMusicPlayer.Tests.TestTeamSongMix.TestThatAddingOnlyTwoSongsResultsInTheSongsAlternatingPlay" methodname="TestThatAddingOnlyTwoSongsResultsInTheSongsAlternatingPlay" classname="TeamMusicPlayer.Tests.TestTeamSongMix" runstate="Runnable" result="Passed" duration="0.093294" asserts="20" />
+          <test-case id="0-1004" name="TestThatMostLikedSongPlaysMost" fullname="TeamMusicPlayer.Tests.TestTeamSongMix.TestThatMostLikedSongPlaysMost" methodname="TestThatMostLikedSongPlaysMost" classname="TeamMusicPlayer.Tests.TestTeamSongMix" runstate="Runnable" result="Passed" duration="0.080822" asserts="14" />
+          <test-case id="0-1003" name="TestThatWhenASongIsDislikedByATeamMemberItDoesntPlayWhenThatTeamMemberIsListening" fullname="TeamMusicPlayer.Tests.TestTeamSongMix.TestThatWhenASongIsDislikedByATeamMemberItDoesntPlayWhenThatTeamMemberIsListening" methodname="TestThatWhenASongIsDislikedByATeamMemberItDoesntPlayWhenThatTeamMemberIsListening" classname="TeamMusicPlayer.Tests.TestTeamSongMix" runstate="Runnable" result="Passed" duration="0.074879" asserts="20" />
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
